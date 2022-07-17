@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CC64010F-633A-461C-A3C1-BC0FBDAC0D51"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA487696-743D-492C-B9B0-B2806201FD8D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIKitTraining/Models/Room.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Room"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "AA487696-743D-492C-B9B0-B2806201FD8D - 1f15c5941304b049"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIKitTraining.Genre.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;UIKitTraining.Genre&gt;"
+                  moduleName = "UIKitTraining"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahsark/Documents/projects/swift/UIKitTraining/UIKitTraining/Models/Room.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "AA487696-743D-492C-B9B0-B2806201FD8D - a3a5089e0d922121"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIKitTraining.Genre.rawValue.getter : Swift.String"
+                  moduleName = "UIKitTraining"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noahsark/Documents/projects/swift/UIKitTraining/UIKitTraining/Models/Room.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
